@@ -1,0 +1,16 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+
+Time spent on the assignment, in hours:
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+
+Known problems:
+    (are there any things that do not work?)
+
+Comments on the assignment:
